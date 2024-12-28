@@ -1,0 +1,198 @@
+2024-12-28 13:33:09,303 - INFO - Fetching all datasets
+2024-12-28 13:33:09,304 - INFO - Searching for datasets with query: mental health
+2024-12-28 13:33:09,306 - INFO - Searching for datasets with query: diabetes
+2024-12-28 13:33:09,310 - INFO - Fetching all datasets
+2024-12-28 13:40:02,196 - INFO - Fetching all datasets
+2024-12-28 13:40:02,197 - INFO - Searching for datasets with query: mental health
+2024-12-28 13:40:02,198 - INFO - Searching for datasets with query: diabetes
+2024-12-28 13:40:02,199 - INFO - Fetching all datasets
+2024-12-28 13:47:49,615 - INFO - Fetching all datasets
+2024-12-28 13:47:49,616 - INFO - Searching for datasets with query: mental health
+2024-12-28 13:47:49,616 - INFO - Searching for datasets with query: diabetes
+2024-12-28 13:47:49,617 - INFO - Fetching all datasets
+2024-12-28 14:14:11,289 - INFO - Searching for datasets with query: tell me about adult social care client level data
+2024-12-28 14:16:48,662 - INFO - Searching for datasets with query: mental health
+2024-12-28 14:19:16,085 - INFO - Searching for datasets with query: acute
+2024-12-28 14:19:18,691 - INFO - Searching for datasets with query: acute
+2024-12-28 14:37:29,114 - INFO - Searching for datasets with query: acute data
+2024-12-28 14:42:06,696 - INFO - Fetching all datasets
+2024-12-28 14:42:06,697 - INFO - Searching for datasets with query: mental health
+2024-12-28 14:42:06,698 - INFO - Searching for datasets with query: diabetes
+2024-12-28 14:42:06,699 - INFO - Fetching all datasets
+2024-12-28 14:45:42,757 - INFO - Fetching all datasets
+2024-12-28 14:45:42,758 - INFO - Searching for datasets with query: mental health
+2024-12-28 14:45:42,759 - INFO - Searching for datasets with query: diabetes
+2024-12-28 14:45:42,760 - INFO - Fetching all datasets
+2024-12-28 14:47:44,147 - INFO - Searching for datasets with query: acute
+2024-12-28 14:49:40,231 - INFO - Searching for datasets with query: get all datasets
+2024-12-28 14:49:51,051 - INFO - Searching for datasets with query: get all datasets
+2024-12-28 14:49:51,717 - INFO - Searching for datasets with query: get all datasets
+2024-12-28 14:49:51,925 - INFO - Searching for datasets with query: get all datasets
+2024-12-28 14:49:52,297 - INFO - Searching for datasets with query: get all datasets
+2024-12-28 14:59:27,159 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-28 14:59:27,159 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-28 14:59:27,159 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-28 14:59:27,159 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-28 14:59:27,159 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-28 14:59:37,375 - INFO - Searching for datasets with query: show all datasets
+2024-12-28 14:59:37,390 - DEBUG - Starting new HTTPS connection (1): digital.nhs.uk:443
+2024-12-28 14:59:38,381 - DEBUG - https://digital.nhs.uk:443 "GET /search?q=show%20all%20datasets HTTP/1.1" 200 None
+2024-12-28 14:59:38,417 - DEBUG - Search response status code: 200
+2024-12-28 14:59:38,418 - DEBUG - Search response content: 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://w
+2024-12-28 14:59:38,500 - INFO - Found 0 results for query: show all datasets
+2024-12-28 14:59:50,033 - INFO - Searching for datasets with query: show acute datasets
+2024-12-28 14:59:50,035 - DEBUG - Starting new HTTPS connection (1): digital.nhs.uk:443
+2024-12-28 14:59:50,753 - DEBUG - https://digital.nhs.uk:443 "GET /search?q=show%20acute%20datasets HTTP/1.1" 200 None
+2024-12-28 14:59:50,789 - DEBUG - Search response status code: 200
+2024-12-28 14:59:50,790 - DEBUG - Search response content: 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://w
+2024-12-28 14:59:50,867 - INFO - Found 0 results for query: show acute datasets
+2024-12-28 15:01:24,932 - INFO - Searching for datasets with query: show acute datasets
+2024-12-28 15:01:24,935 - DEBUG - Starting new HTTPS connection (1): digital.nhs.uk:443
+2024-12-28 15:01:26,016 - DEBUG - https://digital.nhs.uk:443 "GET /search?q=show%20acute%20datasets HTTP/1.1" 200 None
+2024-12-28 15:01:26,054 - DEBUG - Search response status code: 200
+2024-12-28 15:01:26,055 - DEBUG - Search response content: 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://w
+2024-12-28 15:01:26,155 - INFO - Found 0 results for query: show acute datasets
+2024-12-28 15:02:35,891 - INFO - Fetching all datasets
+2024-12-28 15:02:35,891 - INFO - Searching for datasets with query: mental health
+2024-12-28 15:02:35,898 - DEBUG - Starting new HTTPS connection (1): digital.nhs.uk:443
+2024-12-28 15:02:36,980 - DEBUG - https://digital.nhs.uk:443 "GET /search?q=mental%20health HTTP/1.1" 200 None
+2024-12-28 15:02:37,018 - DEBUG - Search response status code: 200
+2024-12-28 15:02:37,019 - DEBUG - Search response content: 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://w
+2024-12-28 15:02:37,105 - INFO - Found 0 results for query: mental health
+2024-12-28 15:02:37,108 - INFO - Searching for datasets with query: diabetes
+2024-12-28 15:02:37,110 - DEBUG - Starting new HTTPS connection (1): digital.nhs.uk:443
+2024-12-28 15:02:37,813 - DEBUG - https://digital.nhs.uk:443 "GET /search?q=diabetes HTTP/1.1" 200 None
+2024-12-28 15:02:37,850 - DEBUG - Search response status code: 200
+2024-12-28 15:02:37,852 - DEBUG - Search response content: 
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://w
+2024-12-28 15:02:37,934 - INFO - Found 0 results for query: diabetes
+2024-12-28 15:02:37,937 - INFO - Fetching all datasets

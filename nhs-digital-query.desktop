@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NHS Digital Query
+Comment=NHS Digital Dataset Search
+Exec=python3 C:\Users\PCassidy\OneDrive - Insource Ltd\Desktop\VS Code Project Folder\launch_app.pyw
+Icon=C:\Users\PCassidy\OneDrive - Insource Ltd\Desktop\VS Code Project Folder\query.png
+Terminal=false
+Type=Application
+Categories=Utility;

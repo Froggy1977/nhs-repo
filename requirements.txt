@@ -1,0 +1,5 @@
+requests==2.28.2
+beautifulsoup4==4.11.2
+pillow==9.5.0
+pywin32==305
+winshell==0.6
